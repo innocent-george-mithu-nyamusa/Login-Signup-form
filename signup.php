@@ -67,6 +67,8 @@
         } else {
           password.type = "password";
         }
+        
+
       }
     </script>
   </html>
